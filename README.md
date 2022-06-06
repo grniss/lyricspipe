@@ -1,4 +1,4 @@
 # data-pipeline
 This repository is for my personal training in data pipeline tools
 
-![roadmap](https://user-images.githubusercontent.com/69999855/172087884-c6ab5db4-bdcb-41a5-b09e-418be6551e90.png)
+![roadmap](https://user-images.githubusercontent.com/69999855/172087964-6eb0044c-28c5-4036-a27a-a4ed1a5b98d2.png)
